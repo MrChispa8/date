@@ -24,10 +24,10 @@ if(hora > 0 && hora <= 11){
     saludo="¡Buenos días!";
 }
 if(hora > 11 && hora <= 18){
-    saludo="¡Buenos tardes!";
+    saludo="¡Buenas tardes!";
 }
 if(hora > 18 && hora <= 23){
-    saludo="¡Buenos noches!";
+    saludo="¡Buenas noches!";
 }
 
 function darHora(){
