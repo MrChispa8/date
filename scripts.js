@@ -26,7 +26,7 @@ if(hora > 0 && hora <= 11){
 if(hora > 11 && hora <= 18){
     saludo="¡Buenos tardes!";
 }
-if(hora > 18 && hora <= 0){
+if(hora > 18 && hora <= 23){
     saludo="¡Buenos noches!";
 }
 
